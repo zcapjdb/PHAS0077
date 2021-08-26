@@ -1,0 +1,13 @@
+hex_distinct/
+hex_files/
+info_gain/
+temp_csvs/
+test_files/
+XOR/
+__pycache__/
+speed_test/
+*.txt
+*.csv
+*.pyc
+2grams_results/
+3gram_results/
